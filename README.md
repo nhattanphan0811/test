@@ -12,4 +12,4 @@ Youtube channel: https://www.youtube.com/channel/UCvVwR21Pb8r06LcZ7n3eR4g
 └── ...
 ```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/namttdh/lerni-fb-bot-news)
-# Update 7/3/2024
+# Update 7/3/2024.
